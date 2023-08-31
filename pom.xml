@@ -10,7 +10,6 @@
 	<name>org.egovframe.rte.root</name>
 
 	<modules>
-
 		<!-- Batch -->
 		<module>Batch/org.egovframe.rte.bat.core</module>
 
